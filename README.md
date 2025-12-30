@@ -1,16 +1,46 @@
-## Hi there 👋
+## Hi, I'm Md Shakerullah 👋
 
-<!--
-**mdshakerullahS/mdshakerullahS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full Stack Web Developer | Next.js | Node.js | TypeScript
 
-Here are some ideas to get you started:
+I build end-to-end web applications with modern frontend technologies and scalable backend systems. Passionate about clean UI, performance, and real-world problem solving.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🚀 Tech Stack
+
+**Frontend**
+- HTML, CSS, JavaScript, TypeScript
+- React.js, Next.js
+- Tailwind CSS
+
+**Backend**
+- Node.js
+- Express.js
+
+**Database**
+- MongoDB
+
+**Tools**
+- Git & GitHub
+- VS Code
+- Figma
+
+---
+
+### 🧩 What I Build
+- Authentication systems (Login / Register)
+- RESTful APIs
+- Dashboards & admin panels
+- CRUD-based web applications
+- Responsive & mobile-friendly UIs
+
+---
+
+### 📌 Featured Projects
+👉 Check out my pinned repositories below for full-stack projects.
+
+---
+
+### 📫 Connect With Me
+- **LinkedIn:** https://www.linkedin.com/in/mdshakerullah
+- **Email:** sourovmdshakerullah@gmail.com
