@@ -20,6 +20,11 @@ I build end-to-end web applications with modern frontend technologies and scalab
 **Database**
 - MongoDB
 
+**Others**
+- Zustand
+- Zod
+- NextAuth
+
 **Tools**
 - Git & GitHub
 - VS Code
@@ -28,7 +33,7 @@ I build end-to-end web applications with modern frontend technologies and scalab
 ---
 
 ### 🧩 What I Build
-- Authentication systems (Login / Register)
+- Authentication systems
 - RESTful APIs
 - Dashboards & admin panels
 - CRUD-based web applications
