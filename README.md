@@ -24,6 +24,7 @@ I build end-to-end web applications with modern frontend technologies and scalab
 - Zustand
 - Zod
 - NextAuth
+- JWT
 
 **Tools**
 - Git & GitHub
