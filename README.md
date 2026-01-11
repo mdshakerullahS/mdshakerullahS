@@ -1,4 +1,4 @@
-## Hi, I'm Md Shakerullah 👋
+## Hi, I'm Shakerullah 👋
 
 Full Stack Web Developer | Next.js | Node.js | TypeScript
 
