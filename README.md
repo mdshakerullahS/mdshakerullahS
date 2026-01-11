@@ -18,11 +18,14 @@ I build end-to-end web applications with modern frontend technologies and scalab
 - Express.js
 
 **Database**
+- PostgreSQL
 - MongoDB
 
 **Others**
 - Zustand
 - Zod
+- Prisma
+- Mongoose
 - NextAuth
 - JWT
 
