@@ -1,6 +1,6 @@
 ## Hi, I'm Shakerullah 👋
 
-Full Stack Web Developer | Next.js | Node.js | TypeScript
+Full Stack Web Developer | Next.js | Node.js | TypeScript | PostgreSQL
 
 I build end-to-end web applications with modern frontend technologies and scalable backend systems. Passionate about clean UI, performance, and real-world problem solving.
 
