@@ -8,8 +8,11 @@ I build end-to-end web applications with modern frontend technologies and scalab
 
 ### 🚀 Tech Stack
 
+**Languages**
+- JavaScript
+- TypeScript
+
 **Frontend**
-- HTML, CSS, JavaScript, TypeScript
 - React.js, Next.js
 - Tailwind CSS
 
