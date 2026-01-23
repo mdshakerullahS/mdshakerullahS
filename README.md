@@ -36,6 +36,8 @@ I build end-to-end web applications with modern frontend technologies and scalab
 **Tools**
 - Git & GitHub
 - VS Code
+- Postman
+- Vercel
 - Figma
 
 ---
