@@ -19,6 +19,8 @@ I build end-to-end web applications with modern frontend technologies and scalab
 **Backend**
 - Node.js
 - Express.js
+- Prisma ORM
+- Mongoose
 
 **Database**
 - PostgreSQL
@@ -28,8 +30,7 @@ I build end-to-end web applications with modern frontend technologies and scalab
 **Others**
 - Zustand
 - Zod
-- Prisma
-- Mongoose
+- TanStack Query
 - NextAuth
 - JWT
 
