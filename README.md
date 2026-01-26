@@ -27,14 +27,12 @@ I build end-to-end web applications with modern frontend technologies and scalab
 - MongoDB
 - Redis
 
-**Others**
+**State & Others**
 - Zustand
 - Zod
 - TanStack Query
-- NextAuth
-- JWT
 
-**Tools**
+**DevOps & Tools**
 - Git & GitHub
 - VS Code
 - Postman
