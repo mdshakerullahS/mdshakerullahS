@@ -11,6 +11,7 @@ I build end-to-end web applications with modern frontend technologies and scalab
 **Languages**
 - JavaScript
 - TypeScript
+- SQL
 
 **Frontend**
 - React.js, Next.js
@@ -27,19 +28,22 @@ I build end-to-end web applications with modern frontend technologies and scalab
 - MongoDB
 - Redis
 
-**State & Others**
+**State & Data**
 - Zustand
 - Zod
 - TanStack Query
 
-**DevOps & Tools**
-- Git & GitHub
-- Docker
-- Vercel
-- Render
+**DevOps**
+- Git
+- GitHub
 - VSCode
 - Postman
 - Figma
+
+**Other Tools**
+- Docker
+- Vercel
+- Render
 
 ---
 
