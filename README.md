@@ -34,16 +34,16 @@ I build end-to-end web applications with modern frontend technologies and scalab
 - TanStack Query
 
 **DevOps**
+- Docker
+- Vercel
+- Render
+
+**Other Tools**
 - Git
 - GitHub
 - VSCode
 - Postman
 - Figma
-
-**Other Tools**
-- Docker
-- Vercel
-- Render
 
 ---
 
