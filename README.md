@@ -33,6 +33,14 @@ I build end-to-end web applications with modern frontend technologies and scalab
 - Zod
 - TanStack Query
 
+**Testing**
+- Jest
+- Supertest
+
+**Linting & Formatting**
+- ESLint
+- Prettier
+
 **DevOps**
 - Docker
 - Vercel
