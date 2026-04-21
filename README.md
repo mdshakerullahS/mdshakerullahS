@@ -15,6 +15,8 @@ I build full-stack web applications with a focus on performance, scalability, an
 | **Backend**      | Node.js, Express.js, Prisma ORM, Mongoose            |
 | **Database**     | PostgreSQL, MongoDB, Redis                           |
 | **State & Data** | Zustand, TanStack Query, Zod                         |
+| **Testing**      | Jest, Supertest, React Testing Library               |
+| **Code Quality** | ESLint, Prettier                                     |
 | **DevOps**       | Docker, VPS Management, CI/CD, Vercel                |
 
 ---
