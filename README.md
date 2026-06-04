@@ -1,43 +1,40 @@
-## Hi, I'm Shakerullah 👋
+# Md Shakerullah Sourov
 
-**Full Stack Developer | I build fast, scalable web apps that actually survive production.**
+Full Stack Developer focused on building production-grade web applications — from architecture and API design through to deployment and monitoring.
 
-I build full-stack web applications with a focus on performance, scalability, and real-world usability. My goal is to create products that not only look good, but work reliably in production.
-
----
-
-### 🛠 Tech Stack
-
-| Category         | Tools & Technologies                                 |
-| :--------------- | :--------------------------------------------------- |
-| **Languages**    | TypeScript, JavaScript (ES6+), SQL                   |
-| **Frontend**     | React, Next.js (App Router), Tailwind CSS, shadcn/ui |
-| **Backend**      | Node.js, Express.js, Prisma ORM, Mongoose            |
-| **Database**     | PostgreSQL, MongoDB, Redis                           |
-| **State & Data** | Zustand, TanStack Query, Zod                         |
-| **Testing**      | Jest, Supertest, React Testing Library               |
-| **Code Quality** | ESLint, Prettier                                     |
-| **DevOps**       | Docker, VPS Management, CI/CD, Vercel                |
+I care about the details that matter in real systems: type safety, caching strategies, containerized deployments, and code that other developers can actually maintain.
 
 ---
 
-### 🏗 What I Focus On
+## Tech Stack
 
-- **Scalable Architecture:** Modular codebases designed for growth and team collaboration.
-- **Reliable Deployment:** Containerizing environments with **Docker** for consistent production runs.
-- **Type-Safety:** Implementing **TypeScript** and **Zod** across the stack to eliminate production bugs.
-- **Performance:** Optimizing for Core Web Vitals and efficient database indexing.
+| Category      | Tools                                                        |
+| ------------- | ------------------------------------------------------------ |
+| Languages     | TypeScript, JavaScript (ES6+), SQL                           |
+| Frontend      | React, Next.js (App Router), Tailwind CSS, shadcn/ui         |
+| Backend       | Node.js, Express.js, Prisma ORM, Mongoose                    |
+| Databases     | PostgreSQL, MongoDB, Redis                                   |
+| State & Data  | Zustand, TanStack Query, Zod                                 |
+| Testing       | Jest, Supertest, React Testing Library                       |
+| DevOps        | Docker, VPS Management, CI/CD, Vercel                        |
 
 ---
 
-### 📌 Featured Projects
+## Featured Projects
 
-_Check out my pinned repositories below to see my work with e-commerce systems, API orchestration, and real-time dashboards._
+### [SiteScope](https://github.com/mdshakerullahS/sitescope) — Website Auditing Tool
+Full-stack auditing platform that runs a real headless browser against any URL and surfaces issues across performance, SEO, accessibility, security, UX, and conversion. Built with Next.js, Puppeteer, Lighthouse, and Redis.
+
+### [Furnex](https://github.com/mdshakerullahS/furnex) — E-commerce Platform
+Full-stack e-commerce application with JWT authentication, email verification, product management, and a live admin dashboard with Role-Based Access Control. Built with Next.js, Express, MongoDB, and Cloudinary.
+
+### [FirstPR](https://github.com/mdshakerullahS/firstpr) — Open-Source Discovery Platform
+Connects developers with open-source opportunities by matching GitHub issues to their tech stack. Implements Upstash Redis caching, rate limiting, and GitHub OAuth. Built with Next.js, Prisma, PostgreSQL, and Docker.
 
 ---
 
-### 📫 Let's Connect
+## Contact
 
-- **Portfolio:** [shakerullah.vercel.app](https://shakerullah.vercel.app)
-- **LinkedIn:** [linkedin.com/in/mdshakerullah](https://www.linkedin.com/in/mdshakerullah)
-- **Email:** sourovmdshakerullah@gmail.com
+- Portfolio: [shakerullah.vercel.app](https://shakerullah.vercel.app)
+- LinkedIn: [linkedin.com/in/mdshakerullah](https://linkedin.com/in/mdshakerullah)
+- Email: sourovmdshakerullah@gmail.com
